@@ -15,11 +15,9 @@ YouTube video: https://www.youtube.com/watch?v=NtzdcXTT0lE
 #### Prof.: 	Alessandro Rizzo
 #### TAs: 		David Pangcheng Cen Cheng, Andrea Usai
 ----------------------
-##### Muratore Luigi			s333098
-##### Gennero Giorgia		s333099 
-##### Akbarov Iskandar		s329650 
-##### Swaidan Moussa		s334402 
-##### Muhammad Fatir Noshab	s331898
+##### Muratore Luigi		
+##### Gennero Giorgia		
+
 
 #### 2023/2024
 
@@ -27,8 +25,7 @@ YouTube video: https://www.youtube.com/watch?v=NtzdcXTT0lE
 --------------------
 
 # I’m not a Robotic Arm
-We are:
-Luigi, Giorgia, Iskandar, Moussa, Fatir.
+We are Luigi and Giorgia.
 We will show you the results of our robotics project we did during this semester.
 
 ----------------------------------
